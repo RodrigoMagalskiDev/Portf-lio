@@ -38,7 +38,6 @@ App oficial da Expofred 2022 para a realização de pesquisas de satisfação co
  -  Segurança de formulários com definição de senha;
  -  Uso de forma offline utilizando banco de dados Sqlite;
  -  Persistencia de dados em nuvem com Firestore Database;
- -  Uso offline;
 
 
 ## Detalhes
