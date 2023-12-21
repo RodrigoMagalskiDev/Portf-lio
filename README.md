@@ -76,11 +76,11 @@ Um conjunto de aplicações voltadas para o ramo pet.
 ## Telas da plataforma Web
 :large_blue_circle: Login e página inicial
 
-![login_web](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/68465ca6-cf00-45a0-b538-6e689fbbe651) ![home_web](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/aa47652b-7f7b-4219-b29b-cc24bb5edf60)
+![login_web](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/c10748ae-7efa-43e0-a7eb-1e61a5e9222d) ![home_web](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/91c20b1d-f6ef-44ff-b6b5-8e8bf9facb01)
 
 :large_blue_circle: Configurações, relatórios e controle de vacinas
 
-![configuracoes_web](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/8cebbee6-0df6-46e3-a920-5c8787ad14f5) ![relatorios](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/b7fea9f3-ff4f-41bc-9a52-8ae805d0695d) ![vacinacoes](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/86b8ae3d-b866-4acd-a793-a8efb72cbeaa)
+![configuracoes_web](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/387c674a-790f-426d-afb8-833f8f19e6ea) ![relatorios](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/35578aa8-9117-4dfb-8279-084cf3496288) ![vacinacoes](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/ff2cf040-0ca3-451d-8571-46067f7f3964)
 
 
 ## Recursos do app
