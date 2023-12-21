@@ -47,3 +47,47 @@ App oficial da Expofred 2022 para a realização de pesquisas de satisfação co
   
   
   *Este foi meu primeiro projeto colocado em produção, onde pude aprender muito. Atualmente este aplicativo encontra-se desativado, por ter seu uso aplicado apenas durante a feira.*
+
+
+  # 2K Fest 
+
+App para venda de ingressos de evento promovido por uma ONG da cidade.
+
+
+## Sobre o app
+
+  O 2KFest foi um aplicativo criado juntamente com outro colega, Gustavo, onde utilizamos o Flutter Web aliado ao Firebase. O objetivo do aplicativo era realizar a venda de ingressos para um evento beneficiente promovido pelo Rotaract, clube da minha cidade que realiza ações sociais. 
+  Inicialmente cadastramos todos os usuário dos responsáveis pela venda de ingressos no aplicativo, e então todos eles teriam acesso para vender os lotes disponíveis. Ao vender um ingresso, o mesmo informava alguns dados do comprador e após isso, o ingresso era enviado para o whatsapp informado. No dia do evento, ocorreu a validação dos ingressos, onde era necessário apresentar o ticket com o QrCode e então nosso aplicativo fazia a validação se era um QrCode válido e se o mesmo já tinha sido apresentado ou não. Validando, a pessoa estava liberada para acessar o evento.
+  
+  
+## Telas do aplicativo
+:iphone:
+
+
+
+:large_blue_circle: Tela de Login do vendedor
+
+![login](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/57d5ecc0-5d7f-4120-927c-44f3eca87cd1)
+
+:large_blue_circle: Lotes de ingressos e Ingressos já vendidos (informações pessoais ocultas aqui por questões de segurança)
+![venda_ingressos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/2f531dc8-f00a-4938-a2d7-d14aa2b1e747) ![ingressos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/ffc1d07c-80eb-491d-be75-7acfebedcb34)
+
+:large_blue_circle: Ticket
+![ingressos_vendidos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/4612e597-e0c1-46b2-aad6-d05d8c861a0d)
+
+:large_blue_circle: Validação do Ingresso
+![image](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/09fb9d23-2fcf-40c8-8dce-d88ec6947482)
+
+  
+
+## Recursos do app
+
+ -  Autenticação com o Firebase Authentication;
+ -  Venda de ingressos com controle de quantidade por lote;
+ -  Envio do ticket por whatsapp do comprador;
+ -  Validação automática do ingresso com leitura de QrCode
+
+
+## Detalhes
+  O app foi desenvolvido em menos de uma semana para atender a urgente necessidade do clube para o evento. O uso do aplicativo foi um sucesso, onde o mesmo possivelmente será novamente utilizado em um futuro evento promovido pelo grupo.
+
