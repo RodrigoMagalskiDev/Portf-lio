@@ -49,6 +49,7 @@ App oficial da Expofred 2022 para a realização de pesquisas de satisfação co
   *Este foi meu primeiro projeto colocado em produção, onde pude aprender muito. Atualmente este aplicativo encontra-se desativado, por ter seu uso aplicado apenas durante a feira.*
 
 
+
   # 2K Fest 
 
 App para venda de ingressos de evento promovido por uma ONG da cidade.
@@ -65,9 +66,9 @@ App para venda de ingressos de evento promovido por uma ONG da cidade.
 
 ![login](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/245628a7-6fbc-40a7-b24e-8dd29fdcca45)
 
-:large_blue_circle: Lotes de ingressos e Ingressos já vendidos (informações pessoais ocultas aqui por questões de segurança)
+:large_blue_circle: Lotes de Ingressos (informações pessoais ocultas aqui por questões de segurança)
 
-![venda_ingressos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/fcbaa97a-0dff-4438-bedc-6a591fcbd4fc) ![ingressos_1](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/c07a4352-e8d3-453a-bd46-86fc7c5de30b)
+![venda_ingressos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/fcbaa97a-0dff-4438-bedc-6a591fcbd4fc) ![ingressos_1](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/c07a4352-e8d3-453a-bd46-86fc7c5de30b) ![venda](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/84d737e7-bd0c-4ba3-ae66-a6ef001feca9)
 
 :large_blue_circle: Ticket
 
@@ -89,3 +90,37 @@ App para venda de ingressos de evento promovido por uma ONG da cidade.
 ## Detalhes
   O app foi desenvolvido em menos de uma semana para atender a urgente necessidade do clube para o evento. O uso do aplicativo foi um sucesso, onde o mesmo possivelmente será novamente utilizado em um futuro evento promovido pelo grupo.
 
+
+  # P2Fit - Aplicativo para academias
+
+  App destinado para uso de alunos de academias para controle e gerenciamento de treinos.
+
+
+## Sobre o app
+
+  O P2Fit é um projeto pessoal, o qual desenvolvo junto com outros tres colegas, onde sou o responsável pelo frontend mobile e web. A app está em fase final de desenvolvimento, muito próximo do seu lançamento e tem como propósito aproximar o aluno da academia permitindo com que o mesmo tenha um controle dos seus treinos, acessos de evoluções diárias, dentre outras informações. O aplicativo estará disponível nas plataformas Android e iOS. A plataforma web mencionada, utilizada pelo gestor da academia, foi desenvolvida em Typescript, a qual também fiz parte do desenvolvimento, mas não constará neste portfólio.
+  
+  
+## Telas do aplicativo
+:large_blue_circle: Login e página inicial
+
+![login](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/652f2561-a6dd-402c-9e56-deac4dea0f9b) ![home](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/e3ff852f-f19d-461f-acd4-26e9ef0c79db)
+
+:large_blue_circle: Contratos e Menu lateral
+
+![contratos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/d4a4284c-ee90-4a40-aa3c-a2139df247f2) ![drawer](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/0ab72caf-71ef-43cf-bb0b-5cf3358645a3)
+
+:large_blue_circle: Treinos
+
+![treinos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/692ecf72-fc0c-42aa-beaf-57216c506843) ![exercicio](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/6167e3e4-7e2e-435d-b481-b30851276559)
+
+:large_blue_circle: Perfil
+
+![perfil](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/d8088160-1003-4355-83c5-96f01250f56e)
+  
+
+## Recursos do app
+
+ -  Backend próprio com segurança nas requisições utilizando token jwt;
+ -  Integração com Firebase Analytics, Crashlytics, Firebase Storage;
+ -  Controle de versão mínima utilizando Firebase Remote Config;
