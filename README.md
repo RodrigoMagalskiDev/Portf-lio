@@ -61,21 +61,20 @@ App para venda de ingressos de evento promovido por uma ONG da cidade.
   
   
 ## Telas do aplicativo
-:iphone:
-
-
-
 :large_blue_circle: Tela de Login do vendedor
 
 ![login](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/57d5ecc0-5d7f-4120-927c-44f3eca87cd1)
 
 :large_blue_circle: Lotes de ingressos e Ingressos já vendidos (informações pessoais ocultas aqui por questões de segurança)
-![venda_ingressos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/2f531dc8-f00a-4938-a2d7-d14aa2b1e747) ![ingressos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/ffc1d07c-80eb-491d-be75-7acfebedcb34)
+
+![venda_ingressos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/2f531dc8-f00a-4938-a2d7-d14aa2b1e747) ![ingressos_1](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/c07a4352-e8d3-453a-bd46-86fc7c5de30b)
 
 :large_blue_circle: Ticket
+
 ![ingressos_vendidos](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/4612e597-e0c1-46b2-aad6-d05d8c861a0d)
 
 :large_blue_circle: Validação do Ingresso
+
 ![image](https://github.com/RodrigoMagalskiDev/Portf-lio/assets/108557225/09fb9d23-2fcf-40c8-8dce-d88ec6947482)
 
   
