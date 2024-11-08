@@ -1,3 +1,5 @@
+Listo nesta página alguns de meus projetos mais recentes que rodam em ambiente de produção.
+
 # Quiz Faction 
 
 App oficial da Expofred 2022 para a realização de pesquisas de satisfação com os frequentadores e expositores da feira.
@@ -96,14 +98,16 @@ Você pode encontrar o app na App Store [aqui](https://apps.apple.com/us/app/pet
 
 
 
-# P2Fit - Aplicativo para academias
+# BarthFitness - Aplicativo para academias
 
   App destinado para uso de alunos de academias para controle e gerenciamento de treinos.
 
 
 ## Sobre o app
 
-  O P2Fit é um projeto pessoal, o qual desenvolvo junto com outros tres colegas, onde sou o responsável pelo frontend mobile e web. A app está em fase final de desenvolvimento, muito próximo do seu lançamento e tem como propósito aproximar o aluno da academia permitindo com que o mesmo tenha um controle dos seus treinos, acessos de evoluções diárias, dentre outras informações. O aplicativo estará disponível nas plataformas Android e iOS. A plataforma web mencionada, utilizada pelo gestor da academia, foi desenvolvida em Typescript, a qual também fiz parte do desenvolvimento, mas não constará neste portfólio.
+  O BarthFitness é um projeto pessoal, o qual desenvolvo junto com outros tres colegas, onde sou o responsável pelos aplicativos e também auxilio no desenvolvimento do front-end. O app tem como propósito aproximar o aluno da academia permitindo com que o mesmo tenha um controle dos seus treinos, acessos de evoluções diárias, dentre outras informações.
+  O aplicativo estará disponível nas plataformas [Android](https://play.google.com/store/apps/details?id=br.com.BarthFitness.BarthFitness&hl=pt_BR) e [iOS](https://apps.apple.com/br/app/barth-fitness/id6478358355).
+  A plataforma web mencionada, utilizada pelo gestor da academia, foi desenvolvida em Typescript, a qual também fiz parte do desenvolvimento, mas não constará neste portfólio.
   
   
 ## Telas do aplicativo
