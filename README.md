@@ -50,8 +50,9 @@ App oficial da Expofred 2022 para a realização de pesquisas de satisfação co
 
 # App Pet+ 
 
-Um conjunto de aplicações voltadas para o ramo pet.
-
+Página oficial do projeto: https://petmaisapp.com.br/
+Você pode encontrar o app na Play Store [aqui](https://play.google.com/store/apps/details?id=br.com.rodrigomagalskidev.app_pet)
+Você pode encontrar o app na App Store [aqui](https://apps.apple.com/us/app/pet/id6499474151)
 
 ## Sobre o app
 
